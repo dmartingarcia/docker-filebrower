@@ -8,7 +8,7 @@
 
   ```
   cp .env.example .env
-  docker-compose up -d
+  docker compose up -d
   ```
 
   PLEASE, CHANGE THE DEFAULT ADMIN PASSWORDS
